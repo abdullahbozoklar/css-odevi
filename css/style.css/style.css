@@ -1,0 +1,44 @@
+/* Ana Sayfa */
+.header{
+  text-align: center;
+  list-style: none;
+  }
+
+  #birincih1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+  }
+
+.aracList{
+  text-align: center;
+ color: rgb(255, 0, 21);
+}
+
+#aracAdlari{
+  text-align: center;
+  list-style: none;
+  
+}
+
+/* İlanlarımız */
+
+#satisAraba {
+  font-size: 40px;
+  text-align: center;
+}
+
+.arabalar{
+  text-align: center;
+  list-style: none;
+}
+
+.Arabaliste {
+   text-align: center;
+   list-style: none
+}
+
+#satisAraba{
+  font-size: 50px;
+  color: rgb(88, 134, 241)
+}
